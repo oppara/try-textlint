@@ -1,0 +1,17 @@
+{
+  "name": "try-textlint",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "./node_modules/.bin/textlint docs README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oppara/try-textlint.git"
+  },
+  "devDependencies": {
+    "textlint": "^11.2.3",
+    "textlint-rule-no-todo": "^2.0.1",
+    "textlint-rule-preset-ja-technical-writing": "^3.1.2",
+    "textlint-rule-preset-jtf-style": "^2.3.3"
+  }
+}
