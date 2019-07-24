@@ -9,11 +9,11 @@
     "url": "git+https://github.com/oppara/try-textlint.git"
   },
   "devDependencies": {
+    "diff": ">=3.5.0",
+    "js-yaml": ">=3.13.1",
     "textlint": "^11.2.5",
     "textlint-rule-no-todo": "^2.0.1",
-    "textlint-rule-preset-ja-technical-writing": "^3.1.2",
-    "textlint-rule-preset-jtf-style": "^2.3.3",
-    "js-yaml": ">=3.13.1",
-    "diff": ">=3.5.0"
+    "textlint-rule-preset-ja-technical-writing": "^3.1.3",
+    "textlint-rule-preset-jtf-style": "^2.3.3"
   }
 }
